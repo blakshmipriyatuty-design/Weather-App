@@ -82,6 +82,7 @@ Figma
 https://www.figma.com/design/OSb4tpg7HM4gQ8smpRP06X/Untitled?node-id=0-1&t=09Y68cuwal3MQOoH-1
 
 ## Project Structure
+<img width="450" height="500" alt="Weather app PS" src="https://github.com/user-attachments/assets/8e2605de-1ec3-467e-8d7d-3348149d4cbd" />
 
 # Developed By
 Student’s Name: Lakshmi Priya.B
