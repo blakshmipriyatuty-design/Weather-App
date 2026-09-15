@@ -38,6 +38,7 @@ Figma
 10. Weather Forecasting
 
 ## Screenshots
+
 1. Splash screen
 <img width="150" height="300" alt="Splash Screen (2)" src="https://github.com/user-attachments/assets/e5d420d8-696b-4d9c-bcb0-3a00a38f4964" />
 
